@@ -1,7 +1,7 @@
 [package]
 name = "wasm-fun"
 version = "0.1.0"
-authors = ["Your Name <victor_bankowski@hotmail.com>"]
+authors = ["Victor Bankowski <victor_bankowski@hotmail.com>"]
 
 [lib]
 crate-type = ["cdylib", "rlib"]
