@@ -1,3 +1,3 @@
 import * as wasm from "wasm-fun";
 
-wasm.greet();
+wasm.greet("World");
